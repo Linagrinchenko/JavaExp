@@ -1,5 +1,6 @@
 /**
  * Created by lhrynchenko on 20.04.2015.
+ * test comment
  */
 public class Polimorfizm {
 
