@@ -6,6 +6,7 @@ import org.openqa.selenium.WebDriver;
 
 /**
  * Created by lhrynchenko on 14.04.2015.
+ *
  */
 public class LoginPage extends Page{
 
